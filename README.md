@@ -1,2 +1,2 @@
-# Class-31
-Sometimes smoke looks like Minecraft snowballs
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
